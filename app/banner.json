@@ -8,12 +8,12 @@
         "url": "https://i2.zfcyc.com/maptime/resources/static/banner-01.jpg.rg"
       }, 
       {
-        "id": 0, 
+        "id": 1, 
         "type": "image", 
         "url": "https://i2.zfcyc.com/maptime/resources/static/banner-02.jpg.rg"
       }, 
       {
-        "id": 0, 
+        "id": 2, 
         "type": "image", 
         "url": "https://i2.zfcyc.com/maptime/resources/static/banner-03.jpg.rg"
       }
